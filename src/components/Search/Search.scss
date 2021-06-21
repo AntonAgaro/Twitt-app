@@ -1,0 +1,21 @@
+.Search {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.Search__input {
+    width: 500px;
+    max-width: 500px;
+    padding: 5px;
+}
+
+.Search__button {
+    padding: 5px;
+    cursor: pointer;
+    &--active {
+        background-color: #FFD700;
+        color: #000;
+    }
+}

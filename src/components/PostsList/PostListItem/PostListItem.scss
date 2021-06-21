@@ -1,0 +1,26 @@
+.PostListItem {
+    border: 1px solid #FFD700;
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &__text {
+        cursor: pointer;
+    }
+    &__icons {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 5px;
+        cursor: pointer;
+    }
+}
+
+.important {
+    color: blueviolet;
+}
+
+.liked {
+    color: red;
+}
