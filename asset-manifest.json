@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/twitt-app/static/css/main.0f83c321.chunk.css",
+    "main.js": "/twitt-app/static/js/main.e4a46287.chunk.js",
+    "main.js.map": "/twitt-app/static/js/main.e4a46287.chunk.js.map",
+    "runtime-main.js": "/twitt-app/static/js/runtime-main.33c41cc3.js",
+    "runtime-main.js.map": "/twitt-app/static/js/runtime-main.33c41cc3.js.map",
+    "static/js/2.1f1fd55a.chunk.js": "/twitt-app/static/js/2.1f1fd55a.chunk.js",
+    "static/js/2.1f1fd55a.chunk.js.map": "/twitt-app/static/js/2.1f1fd55a.chunk.js.map",
+    "index.html": "/twitt-app/index.html",
+    "static/css/main.0f83c321.chunk.css.map": "/twitt-app/static/css/main.0f83c321.chunk.css.map",
+    "static/js/2.1f1fd55a.chunk.js.LICENSE.txt": "/twitt-app/static/js/2.1f1fd55a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c41cc3.js",
+    "static/js/2.1f1fd55a.chunk.js",
+    "static/css/main.0f83c321.chunk.css",
+    "static/js/main.e4a46287.chunk.js"
+  ]
+}
